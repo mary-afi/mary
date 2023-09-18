@@ -15,7 +15,6 @@ source $HOME/.bash_profile
 
 ---------------------------------------------------
 go version
-
 --------------------------------------
 cd $HOME
 rm -rf celestia-app

@@ -1,5 +1,5 @@
 for github 
-z-----------z-----------
+z-----------z---d--------
 sudo apt update && sudo apt upgrade -y
 ---------------------------------------------
 sudo apt install curl tar wget clang pkg-config libssl-dev jq build-essential bsdmainutils git make ncdu -y

@@ -1,5 +1,5 @@
 for github 
-z---m-b-hnnljj--adsdsb bb zaa -ff ---0-h- ---
+z---m44-b-hnnljj--adsdsb bb zaa -ff ---0-h- ---
 sudo apt update && sudo apt upgrade -y
 ----------------------- ----------------------
 sudo apt install curl tar wget clang pkg-config libssl-dev jq build-essential bsdmainutils git make ncdu -y

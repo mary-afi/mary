@@ -123,7 +123,7 @@ tee $HOME/celestia-appd.service > /dev/null <<EOF
   WantedBy=multi-user.target
 EOF
 
----------------------------------------------------
+---------------------------------------------------------------------------------------------------
 sudo mv $HOME/celestia-appd.service /etc/systemd/system/
 
 ----------------------------------------------------

@@ -32,7 +32,9 @@ CELESTIA_NODENAME="MY_NODE"
 CELESTIA_WALLET="MY_WALLET"
 CELESTIA_CHAIN="mamaki"
 
-اطلاعات  داخل "" رو پاک کنید(فقط خط اول و دوم) و اطلاعات خودتون رو قرCELESTIA_NODENAME="amir" 
+طلاعات  داخل "" رو پاک کنید(فقط خط اول و دوم) و اطلاعات خودتون رو قر 
+CELESTIA_NODENAME="amir" 
+
 CELESTIA_WALLET="amir8372"
 CELESTIA_CHAIN="mamaki"
 

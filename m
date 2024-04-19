@@ -31,8 +31,6 @@ git clone https://github.com/celestiaorg/networks.git
 CELESTIA_NODENAME="MY_NODE" 
 CELESTIA_WALLET="MY_WALLET"
 CELESTIA_CHAIN="mamaki"
-
-طلاعات  داخل "" رو پاک کنید(فقط خط اول و دوم) و اطلاعات خودتون رو قر 
 CELESTIA_NODENAME="amir" 
 
 CELESTIA_WALLET="amir8372"

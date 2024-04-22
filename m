@@ -48,7 +48,7 @@ celestia-appd init $CELESTIA_NODENAME --chain-id $CELESTIA_CHAIN
 
 cp $HOME/networks/mamaki/genesis.json $HOME/.celestia-app/config/
 
----------------------------------------
+
 sed -i 's/mode = \"full\"/mode = \"validator\"/g' $HOME/.celestia-app/config/config.tom
 
 ---------------------------------------------------------------------------------------------------

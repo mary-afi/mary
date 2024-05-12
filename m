@@ -21,7 +21,7 @@ make install
 celestia-appd version
 git clone https://github.com/celestiaorg/networks
 
----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 cd $HOME
 rm -rf networks
 git clone https://github.com/celestiaorg/networks.git
